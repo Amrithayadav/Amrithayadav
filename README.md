@@ -1,44 +1,91 @@
+![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 
-<h1 align="center">Hi 👋, I'm Amritha yadav</h1>
-<h3 align="center">A passionate <b>Full Stack Developer</b> </h3>
+<div align="center">
 
+<h1 align="center">Hi 👋, I'm Amritha Yadav</h1>
 
-<div style="margin-top: 20px;"></div>
+**Full Stack Developer · Exploring AI**
 
-I’m a **Full Stack Developer** from India, passionate about building modern, scalable, and user-centric web applications.  
-I enjoy working across both frontend and backend to create efficient, reliable, and production-ready solutions.
-
-### 🚀 Projects
-🔹 AI Interview Prep Platform
-
-A full stack web application built to help users prepare for technical and non-technical interviews through AI-driven assistance and realistic practice environments. The platform focuses on improving user confidence by simulating real interview scenarios and providing structured feedback. <br>
-
-**🔧 Tech Stack:** 
-React.js • Node.js • Express.js • MongoDB
-
-🔹 Image Super Resolution using CNN
-
-A deep learning-based project that enhances low-resolution images into high-resolution outputs using Convolutional Neural Networks (CNNs). The model learns to reconstruct fine details and improve image clarity, making it useful for applications like image restoration and enhancement.<br>
-
-**🔧 Tech Stack:**
-Python • TensorFlow/Keras • NumPy • Pandas • Matplotlib
-
-## 💡 I’m passionate about:
-
-- 🌐 Building **fast, user-focused web applications**  
-- 🛠️ Designing **scalable and maintainable systems** with clean architecture  
-- 🚀 Developing **real-world products** that solve meaningful problems  
-- 🧠 Writing **clean, efficient, and production-ready code**  
-
-Reach me at **amrithayadav30@gmail.com**
-
-##
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-
-
-
+</div>
 
 ---
 
+## About
+
+I'm a Full Stack Developer from India with a focus on building clean, scalable web applications and exploring applied AI. I work across the entire stack — from designing intuitive UIs to architecting backend systems — and bring the same rigor to deep learning projects.
+
+I'm currently **open to full-time roles and internships** where I can contribute to meaningful products and grow alongside a strong engineering team.
+
+---
+
+## 🚀 Projects 
+
+### AI Interview Prep Platform  
+A full-stack platform that helps candidates prepare for technical and non-technical interviews through AI-driven simulations and structured feedback. Designed to reduce interview anxiety through realistic practice.  
+`React.js` `Node.js` `Express.js` `MongoDB`
+
+---
+
+### Image Super Resolution using CNN  
+A deep learning model that reconstructs high-resolution images from low-resolution inputs using Convolutional Neural Networks. Applicable to image restoration, medical imaging, and satellite data enhancement.  
+`Python` `TensorFlow/Keras` `NumPy` `Pandas` `Matplotlib`
+
+---
+
+## Skills
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="28" height="28" title="React"/>
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="28" height="28" title="Angular"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="28" height="28" title="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="28" height="28" title="JavaScript"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="28" height="28" title="Tailwind CSS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="28" height="28" title="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="28" height="28" title="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="28" height="28" title="Sass"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="28" height="28" title="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="28" height="28" title="Express.js"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="28" height="28" title="Django"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" width="28" height="28" title="Mongoose"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/json.svg" width="28" height="28" title="JWT"/>
+  <img src="https://img.shields.io/badge/Auth-333333?style=flat-square&logo=shield&logoColor=white" height="28" title="Auth"/>
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="28" height="28" title="Vercel"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="28" height="28" title="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="28" height="28" title="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28" height="28" title="Python"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="28" height="28" title="TensorFlow"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="28" height="28" title="PyTorch"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="28" height="28" title="OpenCV"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="28" height="28" title="Pandas"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="28" height="28" title="Git"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="28" height="28" title="Postman"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="28" height="28" title="MATLAB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="28" height="28" title="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="28" height="28" title="C"/>
+</p>
+
+---
+
+## 💡 What Drives Me
+
+- 📦 **Shipping, not just building** 
+- 🌐 **Building for real users** — I care about performance, accessibility, and interfaces that just *work*
+- 🏗️ **Thinking in systems** — I enjoy designing architectures that scale cleanly and are easy to maintain
+- 🤖 **Bridging web and AI** — I'm drawn to projects where intelligent systems meet real-world applications
+
+---
+
+## Currently
+
+- 🔍 Actively seeking **full-time / internship** opportunities in software development 
+- 📚 Deepening expertise in system design and TypeScript
+- 🛠️ Building projects at the intersection of web and AI
+
+---
+
+<div align="center">
+
+**Open to opportunities · Let's build something great**
+
+[![Get In Touch](https://img.shields.io/badge/Get_In_Touch-111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amrithayadav30@gmail.com)
+
+</div>
