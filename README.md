@@ -1,10 +1,13 @@
-![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
-
 <div align="center">
 
 <h1 align="center">Hi 👋, I'm Amritha Yadav</h1>
 
 **Full Stack Developer · Exploring AI**
+
+[![Email](https://img.shields.io/badge/amrithayadav30%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amrithayadav30@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amritha-yadav-2838a21a5)
+
+</div>
 
 </div>
 
@@ -81,9 +84,17 @@ A deep learning model that reconstructs high-resolution images from low-resoluti
 - 🛠️ Building projects at the intersection of web and AI
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amrithayadav&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amrithayadav&layout=compact&theme=transparent&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amrithayadav&theme=transparent&hide_border=true" height="150" />
+</p>
+
+---
 
 <div align="center">
-
 **Open to opportunities · Let's build something great**
 
 [![Get In Touch](https://img.shields.io/badge/Get_In_Touch-111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amrithayadav30@gmail.com)
